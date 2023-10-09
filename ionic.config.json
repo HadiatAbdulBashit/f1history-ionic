@@ -1,0 +1,7 @@
+{
+  "name": "f1history-ionic",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
